@@ -64,7 +64,7 @@
   place-items: center;
   flex-grow: 1;
 
-  @media (max-width: 1024px) {
+  @media (max-width: 10280px) {
     padding: 32px 20px 24px;
     gap: 18px;
   }
@@ -181,12 +181,4 @@
     right: 0;
     border-right-color: var(--border);
   }
-}
-.country{
-  border: 2px solid green;
-  border-radius: 20px;
-  padding: 10px;
-  text-align: center;
-  color: crimson;
-  margin-top: 10px;
 }
