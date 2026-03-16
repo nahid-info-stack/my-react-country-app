@@ -182,3 +182,11 @@
     border-right-color: var(--border);
   }
 }
+.country{
+  border: 2px solid green;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+  color: crimson;
+  margin-top: 10px;
+}
