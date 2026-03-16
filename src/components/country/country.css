@@ -3,6 +3,14 @@
   border-radius: 20px;
   padding: 10px;
   text-align: center;
-  color: crimson;
+  color: white;
   margin-top: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.country-visited{
+    background-color: greenyellow;
+}
+.country-notvisited{
+    background-color: crimson;
 }
